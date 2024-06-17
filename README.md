@@ -1,3 +1,3 @@
 # Przykladowe-Projekty-Example-Projects-
-Przykładowe projekty wykonane przeze mnie
+Przykładowe projekty wykonane przeze mnie.
 Examples of my projects
